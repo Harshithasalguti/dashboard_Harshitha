@@ -65,7 +65,7 @@ function __build_action__(action, args) {
   return (0,next_dist_client_app_call_server__WEBPACK_IMPORTED_MODULE_0__.callServer)(action.$$id, args)
 }
 
-/* __next_internal_action_entry_do_not_use__ {"55a2b84ec8ae837d3a540b4b904208559c03f397":"createInvoice","ba9714043c1a07c5cc3ab34283f1485ea48fd30e":"updateInvoice","6e6fab275744b42078b18cb5b1605ba029ad3586":"deleteInvoice","ddf2f67fb3ae8f016ae17baa30998d6e32f6139c":"authenticate"} */ 
+/* __next_internal_action_entry_do_not_use__ {"ba9714043c1a07c5cc3ab34283f1485ea48fd30e":"updateInvoice","6e6fab275744b42078b18cb5b1605ba029ad3586":"deleteInvoice","55a2b84ec8ae837d3a540b4b904208559c03f397":"createInvoice","ddf2f67fb3ae8f016ae17baa30998d6e32f6139c":"authenticate"} */ 
 
 var createInvoice = (0,private_next_rsc_action_client_wrapper__WEBPACK_IMPORTED_MODULE_2__.createServerReference)("55a2b84ec8ae837d3a540b4b904208559c03f397");
 var updateInvoice = (0,private_next_rsc_action_client_wrapper__WEBPACK_IMPORTED_MODULE_2__.createServerReference)("ba9714043c1a07c5cc3ab34283f1485ea48fd30e");
